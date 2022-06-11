@@ -1,0 +1,17 @@
+com\example\demo\DemoApplication.class
+com\example\demo\model\UserRepository.class
+com\example\demo\model\UserLogRepository.class
+com\example\demo\model\VehicleOwner.class
+com\example\demo\controller\IndexController.class
+com\example\demo\StaticResourceConfiguration.class
+com\example\demo\mqService\Zamanli.class
+com\example\demo\controller\WelcomeController.class
+com\example\demo\dbService\CarRepository.class
+com\example\demo\mqService\UserListener.class
+com\example\demo\model\User.class
+com\example\demo\dbService\VehicleOwnerRepository.class
+com\example\demo\model\UserLog.class
+com\example\demo\mqService\MessagingConfig.class
+com\example\demo\model\CarData.class
+com\example\demo\controller\LoginController.class
+com\example\demo\MvcConfiguration.class
